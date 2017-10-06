@@ -1,2 +1,8 @@
 # INF191A-INTEGRA
-Nathan Sou
+Team members:
+  Nathan Sou
+  Tiffany Amber Lee
+  Yujie Ding
+  Lansen Zhao
+  Hadar Ziv
+  
