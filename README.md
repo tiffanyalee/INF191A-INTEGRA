@@ -4,5 +4,6 @@ Team members:
   Tiffany Amber Lee,
   Yujie Ding,
   Lansen Zhao,
+  Abhimanyu Tripathi
   Hadar Ziv
   
